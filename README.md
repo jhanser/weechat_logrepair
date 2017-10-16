@@ -20,3 +20,9 @@ Invoke the script - depending on the location an wheter you set the PATH variabl
 It is strongly advised to backup the files beforehand.
 
 Currently it works only with files that end with .weechatlog
+
+## Which version should I use?
+If you only have weechat-logs use logrepair.sh
+If you want to ruin any kind of filetype, use logrepair2.sh
+
+**WARNING:** With the second version you can break stuff in a realy bad way. Only use it, if you are sure, you know what you are doing.
