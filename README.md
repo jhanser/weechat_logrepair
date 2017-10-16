@@ -14,6 +14,8 @@ Optionally set the $PATH-variable accordingly.
 The author recommends putting it in /usr/bin/
 
 ## Usage
+    logrepair.sh </path/to/the/logs/>
+
 Invoke the script - depending on the location an wheter you set the PATH variable accordingly - by calling it and adding the path to the files, you want to operate on.
 It is strongly advised to backup the files beforehand.
 
