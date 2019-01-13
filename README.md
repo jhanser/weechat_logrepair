@@ -1,3 +1,5 @@
+`Notice: As this bug was fixed by weechat some time ago, this is now obsolete`
+
 # weechat_logrepair
 Simple bashscript to repair logs damaged by an unexpected termination of weechat.
 
